@@ -17,8 +17,6 @@ src/mycommerce/models/shared/error.py
 src/mycommerce/models/shared/pet.py
 src/mycommerce/models/shared/__init__.py
 src/mycommerce/models/errors/__init__.py
-docs/sdks/mycommerce/README.md
-docs/sdks/pets/README.md
 USAGE.md
 docs/models/operations/createpetsresponse.md
 docs/models/operations/listpetsrequest.md
@@ -27,4 +25,6 @@ docs/models/operations/showpetbyidrequest.md
 docs/models/operations/showpetbyidresponse.md
 docs/models/shared/error.md
 docs/models/shared/pet.md
+docs/sdks/mycommerce/README.md
+docs/sdks/pets/README.md
 .gitattributes
