@@ -44,9 +44,7 @@ from mycommerce.models import operations
 
 s = mycommerce.Mycommerce()
 
-req = operations.ListPetsRequest(
-    limit=21453,
-)
+req = operations.ListPetsRequest()
 
 res = s.pets.list_pets(req)
 
