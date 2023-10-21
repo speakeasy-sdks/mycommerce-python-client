@@ -79,7 +79,7 @@ from mycommerce.models import operations
 s = mycommerce.Mycommerce()
 
 req = operations.ShowPetByIDRequest(
-    pet_id='Bicycle',
+    pet_id='string',
 )
 
 res = s.pets.show_pet_by_id(req)
