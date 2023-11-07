@@ -1,5 +1,5 @@
 # Pets
-(*pets*)
+(*.pets*)
 
 ### Available Operations
 
@@ -15,7 +15,6 @@ Create a pet
 
 ```python
 import mycommerce
-
 
 s = mycommerce.Mycommerce()
 

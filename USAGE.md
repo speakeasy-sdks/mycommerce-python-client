@@ -4,7 +4,6 @@
 ```python
 import mycommerce
 
-
 s = mycommerce.Mycommerce()
 
 
