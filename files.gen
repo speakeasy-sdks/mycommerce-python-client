@@ -8,6 +8,7 @@ src/mycommerce/utils/__init__.py
 src/mycommerce/utils/retries.py
 src/mycommerce/utils/utils.py
 src/mycommerce/models/errors/sdkerror.py
+tests/helpers.py
 src/mycommerce/models/operations/createpets.py
 src/mycommerce/models/operations/listpets.py
 src/mycommerce/models/operations/showpetbyid.py
