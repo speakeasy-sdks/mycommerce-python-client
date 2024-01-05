@@ -1,0 +1,48 @@
+lockVersion: 2.0.0
+id: aa432114-6bc8-475d-9014-33d0489b8e8a
+management:
+  docChecksum: 2516596125ef223fbbef6c434d22eaac
+  docVersion: 1.0.0
+  speakeasyVersion: internal
+  generationVersion: 2.225.2
+  releaseVersion: 0.10.1
+  configChecksum: 82f57f0fe426d9aa9f23cdd341447640
+  repoURL: https://github.com/speakeasy-sdks/mycommerce-python-client.git
+  repoSubDirectory: .
+  installationURL: https://github.com/speakeasy-sdks/mycommerce-python-client.git
+features:
+  python:
+    core: 4.4.0
+    globalServerURLs: 2.82.1
+generatedFiles:
+  - src/mycommerce/sdkconfiguration.py
+  - src/mycommerce/pets.py
+  - src/mycommerce/sdk.py
+  - pylintrc
+  - setup.py
+  - src/mycommerce/__init__.py
+  - src/mycommerce/utils/__init__.py
+  - src/mycommerce/utils/retries.py
+  - src/mycommerce/utils/utils.py
+  - src/mycommerce/models/errors/sdkerror.py
+  - tests/helpers.py
+  - src/mycommerce/models/operations/createpets.py
+  - src/mycommerce/models/operations/listpets.py
+  - src/mycommerce/models/operations/showpetbyid.py
+  - src/mycommerce/models/shared/error.py
+  - src/mycommerce/models/shared/pet.py
+  - src/mycommerce/models/__init__.py
+  - src/mycommerce/models/errors/__init__.py
+  - src/mycommerce/models/operations/__init__.py
+  - src/mycommerce/models/shared/__init__.py
+  - docs/models/operations/createpetsresponse.md
+  - docs/models/operations/listpetsrequest.md
+  - docs/models/operations/listpetsresponse.md
+  - docs/models/operations/showpetbyidrequest.md
+  - docs/models/operations/showpetbyidresponse.md
+  - docs/models/shared/error.md
+  - docs/models/shared/pet.md
+  - docs/sdks/mycommerce/README.md
+  - docs/sdks/pets/README.md
+  - USAGE.md
+  - .gitattributes
