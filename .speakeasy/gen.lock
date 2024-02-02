@@ -4,15 +4,15 @@ management:
   docChecksum: 1bdb7a6f8bf3995d4b40475228403253
   docVersion: 1.0.0
   speakeasyVersion: internal
-  generationVersion: 2.245.1
-  releaseVersion: 0.10.5
-  configChecksum: 4533ca10d12ae07f4f714f0612f4d838
+  generationVersion: 2.248.1
+  releaseVersion: 0.11.0
+  configChecksum: 3aa37916d127aaff9847b64350767a5b
   repoURL: https://github.com/speakeasy-sdks/mycommerce-python-client.git
   repoSubDirectory: .
   installationURL: https://github.com/speakeasy-sdks/mycommerce-python-client.git
 features:
   python:
-    core: 4.4.3
+    core: 4.4.4
     globalServerURLs: 2.82.1
 generatedFiles:
   - src/mycommerce/sdkconfiguration.py
