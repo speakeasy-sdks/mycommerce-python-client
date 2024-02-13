@@ -61,7 +61,7 @@ Handling errors in this SDK should largely match your expectations.  All operati
 
 ```python
 import mycommerce
-from mycommerce.models import shared
+from mycommerce.models import errors, shared
 
 s = mycommerce.Mycommerce()
 
@@ -74,7 +74,7 @@ res = None
 try:
     res = s.pets.create_pets(req)
 except errors.SDKError as e:
-    print(e)  # handle exception
+    # handle exception
     raise(e)
 
 if res.status_code == 200:
