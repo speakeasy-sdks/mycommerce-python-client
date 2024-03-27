@@ -3,16 +3,16 @@ id: aa432114-6bc8-475d-9014-33d0489b8e8a
 management:
   docChecksum: 1bdb7a6f8bf3995d4b40475228403253
   docVersion: 1.0.0
-  speakeasyVersion: 1.207.1
-  generationVersion: 2.280.6
-  releaseVersion: 0.14.1
-  configChecksum: 81f79636884517de067ac8e304756959
+  speakeasyVersion: 1.227.0
+  generationVersion: 2.291.0
+  releaseVersion: 0.14.2
+  configChecksum: fad2a5d876226244c86aab9e30610095
   repoURL: https://github.com/speakeasy-sdks/mycommerce-python-client.git
   repoSubDirectory: .
   installationURL: https://github.com/speakeasy-sdks/mycommerce-python-client.git
 features:
   python:
-    core: 4.5.1
+    core: 4.5.2
     globalServerURLs: 2.82.2
     responseFormat: 0.1.0
 generatedFiles:
